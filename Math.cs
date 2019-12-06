@@ -1,8 +1,9 @@
 ﻿using System;
 
+
 namespace Flex_Shell
 {
-    private static class Math
+    public class Math
     {
 
         static void Main(string[] args)
@@ -10,8 +11,6 @@ namespace Flex_Shell
             Console.WriteLine("FLEX MATH VERSION 0.0.1");
             Console.WriteLine();
 
-
-            Console.Write("FLEX$> ");
             
         }
     }
