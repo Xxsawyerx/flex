@@ -1,0 +1,5 @@
+{
+//flex cache file//
+fcmd  = null;
+mcmd = null;
+}
